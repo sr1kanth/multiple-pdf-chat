@@ -1,0 +1,10 @@
+pyarrow==9.0.0
+Pillow==9.4.0
+tiktoken
+streamlit
+langchain
+python-dotenv
+huggingface_hub
+faiss-cpu
+openai
+pypdf2
